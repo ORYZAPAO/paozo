@@ -1,2 +1,2 @@
 # web
-https://oryzapao.github.io/web/
+https://oryzapao.github.io/paozo/
